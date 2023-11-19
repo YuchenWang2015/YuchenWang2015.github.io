@@ -93,7 +93,13 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: 'I meet so many wonderful teachers and friends on the journey to explore the world, here are something I want to share: '
+      text: 'Shout out to the wonderful teachers and friends on my journey to explore the world❤️, here are something I want to share:
+             1. My undergraduate research advisor, Prof. Sufan Wang: https://www.researchgate.net/profile/Sufan-Wang  
+             2. My undergraduate English minor thesis advisor, Prof. Yali Xie: https://flc.ahnu.edu.cn/info/1012/3662.htm
+             3. My PhD research advisor, Prof. Christine Aikens https://www.k-state.edu/chem/about/people/faculty/aikens/lab/
+             4. My friend Natalie Liptak, who is currently a writing instructor at K-State, she has a fantastic personal webpage introducing her work: https://nliptakwriting.wordpress.com/ 🐱
+             5. Natalia Rojkovskaia, who is currently a professor of math at K-State, she organized a very fun art&math seminar: https://www.math.ksu.edu/~rozhkovs/
+             6. My violin teacher, Russell Clark, who is currently a director at K-State Symphony Orchestra https://www.k-state.edu/mtd/academics/music/orchestra/'
     design:
       columns: '1'
 ---
