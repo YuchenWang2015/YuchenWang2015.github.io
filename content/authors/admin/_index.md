@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王雨晨
+title: Yuchen Wang
 
 # Name pronunciation (optional)
 
@@ -31,6 +31,9 @@ bio: PhD candidate; Random walking in the rain
 interests:
   - Electronic structure calculations
   - Excited State dynamics
+  - Machine learning potential
+  - Solvent effects
+  - Light-matter interaction
 
 # Education to show in About widget
 education:
@@ -56,6 +59,6 @@ education:
 highlight_name: true
 ---
 
-Graduate student in chemistry; Random walking in the rain; Violin beginner
+Graduate student in computational chemistry
 
 {style="text-align: justify;"}
