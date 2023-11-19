@@ -89,4 +89,11 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: 'I meet so many wonderful teachers and friends on the journey to explore the world, here are something I want to share: '
+    design:
+      columns: '1'
 ---
