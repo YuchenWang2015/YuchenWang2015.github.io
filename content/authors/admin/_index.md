@@ -56,8 +56,6 @@ education:
 highlight_name: true
 ---
 
-PhD candidate; Random walking in the rain 
+Graduate student in chemistry; Random walking in the rain; Violin beginner
 
-  -- Besides research, I also like traveling around the world, learning different cultures and new languages. 
-  -- I am planning to graduate in May 2024, and would like to find a postdoc position after graduation. My areas of interests include (but not limited to) machine learning, solvent effects, and strong light-matter interaction.
 {style="text-align: justify;"}
