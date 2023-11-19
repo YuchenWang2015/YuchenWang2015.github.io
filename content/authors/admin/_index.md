@@ -57,9 +57,9 @@ highlight_name: true
 ---
 
 I am a fifth year Graduate student at Kansas State University. I am working with Prof. Christine Aikens during my Ph.D. study and focusing on three main research topics:
--- The first topic is to study the plasmon-enhanced small molecules dissociation in the presence of gold/silver nanocluster. For the theoretical methods, we applied TDDFT (both linear-response TDDFT and real-time TDDFT) method and Ehrefenst dynamics to investigate the electron and nuclei motions.
--- The second topic is to study the interaction between diglyme molecule and gold thiolate-protected nanocluster. I am currently working on applying machine learning approaches to correlate the geometry and energy information of the system. 
--- The third project is a method development project, and I am working on on-site correction to the current TDDFT+TB (tight binding) method to get more accurate optical properties results.
--- Besides research, I also like traveling around the world, learning different cultures and new languages. 
--- I am planning to graduate in May 2024, and would like to find a postdoc position after graduation. My areas of interests include (but not limited to) machine learning, solvent effects, and strong light-matter interaction.
+  -- The first topic is to study the plasmon-enhanced small molecules dissociation in the presence of gold/silver nanocluster. For the theoretical methods, we applied TDDFT (both linear-response TDDFT and real-time TDDFT) method and Ehrefenst dynamics to investigate the electron and nuclei motions.
+  -- The second topic is to study the interaction between diglyme molecule and gold thiolate-protected nanocluster. I am currently working on applying machine learning approaches to correlate the geometry and energy information of the system. 
+  -- The third project is a method development project, and I am working on on-site correction to the current TDDFT+TB (tight binding) method to get more accurate optical properties results.
+  -- Besides research, I also like traveling around the world, learning different cultures and new languages. 
+  -- I am planning to graduate in May 2024, and would like to find a postdoc position after graduation. My areas of interests include (but not limited to) machine learning, solvent effects, and strong light-matter interaction.
 {style="text-align: justify;"}
