@@ -89,7 +89,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: gallery
+  - block: markdown
     id: gallery
     content:
       title: Gallery
