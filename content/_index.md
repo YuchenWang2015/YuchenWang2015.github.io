@@ -96,11 +96,11 @@ sections:
       subtitle: ''
       text: 'Shout out to all the wonderful teachers and friends on my journey to explore the world❤️, I really want to share with you some of their work: <br>
              1. My undergraduate research advisor, Prof. Sufan Wang: https://www.researchgate.net/profile/Sufan-Wang  <br>
-             2. My undergraduate English minor thesis advisor, Prof. Yali Xie: https://flc.ahnu.edu.cn/info/1012/3662.htm  <br>
+             2. My English Literature undergraduate minor thesis advisor, Prof. Yali Xie: https://flc.ahnu.edu.cn/info/1012/3662.htm  <br>
              3. My PhD research advisor, Prof. Christine Aikens https://www.k-state.edu/chem/about/people/faculty/aikens/lab/  <br>
-             4. Natalie Liptak, who is currently a writing instructor at K-State, she has a fantastic personal webpage introducing her work: https://nliptakwriting.wordpress.com/ 🐱  <br>
-             5. Natalia Rojkovskaia, who is currently a professor of math at K-State, she organized a very fun art and math seminar: https://www.math.ksu.edu/~rozhkovs/  <br>
-             6. My violin teacher, Russell Clark, who is currently a director at K-State Symphony Orchestra https://www.k-state.edu/mtd/academics/music/orchestra/  <br>' 
+             4. Natalie Liptak, currently a writing instructor at K-State, please check her fantastic personal webpage: https://nliptakwriting.wordpress.com/ 🐱  <br>
+             5. Natalia Rojkovskaia, currently a professor of math at K-State, she organized a very fun art and math seminar: https://www.math.ksu.edu/~rozhkovs/  <br>
+             6. My violin teacher, Russell Clark, who is currently a conductor at K-State Symphony Orchestra https://www.k-state.edu/mtd/academics/music/orchestra/  <br>' 
     design:
       columns: '1'
 ---
