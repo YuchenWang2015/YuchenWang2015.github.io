@@ -65,7 +65,7 @@ social:
     link: https://scholar.google.com/citations?user=-NBfj1YAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/yuchen-wang-866044112
+    link: https://www.linkedin.com/in/yuchen-wang-866044112
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
