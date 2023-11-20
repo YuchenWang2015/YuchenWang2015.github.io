@@ -89,8 +89,8 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: gallery
-  - id: Gallery
+  - block: contact
+  - id: gallery
     content:
       title: Gallery
       subtitle: ''
