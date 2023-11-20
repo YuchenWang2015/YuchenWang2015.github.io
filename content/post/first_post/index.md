@@ -1,7 +1,7 @@
 ---
 title: My first Post
 subtitle: Thanks for the support from friends, I finally have my personal webpage 😉
-summary: 
+summary: Thanks for the support from friends, I finally have my personal webpage 😉
 
 # Link this post with a project
 projects: []
