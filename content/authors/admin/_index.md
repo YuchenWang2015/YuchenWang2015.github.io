@@ -70,6 +70,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I published several pieces of my writing in the Children's Literature Journal as a teenager. Therefore, my dream was always to be a writer. However, I accidentally chose chemistry as my undergraduate major, and became my stochastic fluctuating in the world of science since then. Currently, I am a fifth year PhD candidate in theoretical and computational chemistry at K-State. In my spare time, I like reading literatures from all over the world🌍, Yoga (Pilates 🧘‍♀️), learning violin 🎻, watching Ghibli movies with friends, and playing Mario Kart.   
+I published several pieces of my writing in the Children's Literature Journal as a teenager. Therefore, my dream was always to be a writer. However, I accidentally chose chemistry as my undergraduate major, and begen my stochastic fluctuating in the world of science since then. <br> Currently, I am a fifth year PhD candidate in theoretical and computational chemistry divison at K-State. In my spare time, I like reading literatures from all over the world🌍, Yoga (Pilates 🧘‍♀️), learning violin 🎻, watching Ghibli movies with friends, and playing Mario Kart.   
 
 {style="text-align: justify;"}
