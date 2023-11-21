@@ -99,7 +99,7 @@ sections:
              2. My English Literature undergraduate minor thesis advisor, Prof. Yali Xie: https://flc.ahnu.edu.cn/info/1012/3662.htm  <br>
              3. My PhD research advisor, Prof. Christine Aikens https://www.k-state.edu/chem/about/people/faculty/aikens/lab/  <br>
              4. Natalie Liptak, currently a writing instructor at K-State, please check her fantastic personal webpage: https://nliptakwriting.wordpress.com/ 🐱  <br>
-             5. Natalia Rojkovskaia, currently a professor of math at K-State, orgranizes a very fun art and math seminar: https://www.math.ksu.edu/research/artandmathseminar.html/ <br>
+             5. Natalia Rojkovskaia, currently a professor of math at K-State, orgranizes a very fun art and math seminar: https://www.math.ksu.edu/research/artandmathseminar.html <br>
              6. My violin teacher, Russell Clark, who is currently a conductor at K-State Symphony Orchestra https://www.k-state.edu/mtd/academics/music/orchestra/  <br>' 
     design:
       columns: '1'
