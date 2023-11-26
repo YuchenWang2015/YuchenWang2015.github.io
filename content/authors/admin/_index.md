@@ -30,7 +30,7 @@ bio: PhD candidate; Random walking in the rain
 # Interests to show in About widget
 interests:
   - Electronic structure calculations
-  - Excited State dynamics
+  - Excited-state dynamics
   - Machine learning potential
   - Solvent effects
   - Light-matter interaction
