@@ -95,7 +95,16 @@ sections:
       title: Gallery
       subtitle: ''
       text:
-           ' ' 
+           'I published several pieces of my writing in the Children's Literature Journal as a teenager. Therefore, my dream was always to be a writer. However, I accidentally chose chemistry as my undergraduate major and began my stochastic fluctuating in the world of science since then. <br>
+           Specifically, I love comparative literature, and I am more than happy if you would like to talk with me about literature from all over the world.😉 <br>
+             I love visiting museums from all over the world. Have reloacted in Kansas for more than 4 years, I am obsessed with the Nelson-Atkins Museum of Art in Kansas City, MO. <br>
+             Shout out to all the wonderful teachers and friends on my journey to explore the world❤️. I am always happy to find how art and science can correlate with each other so closely. I really want to share with you some of their work: <br>
+             1. My undergraduate research advisor, Prof. Sufan Wang: https://www.researchgate.net/profile/Sufan-Wang  <br>
+             2. My English Literature undergraduate minor thesis advisor, Prof. Yali Xie: https://flc.ahnu.edu.cn/info/1012/3662.htm  <br>
+             3. My PhD research advisor, Prof. Christine Aikens https://www.k-state.edu/chem/about/people/faculty/aikens/lab/  <br>
+             4. Natalie Liptak, currently a writing instructor at K-State, please check her fantastic personal webpage: https://nliptakwriting.wordpress.com/ 🐱  <br>
+             5. Natalia Rojkovskaia, currently a professor of math at K-State, orgranizes a very fun art and math seminar: https://www.math.ksu.edu/research/artandmathseminar.html <br>
+             6. My violin teacher, Russell Clark, who is currently a conductor at K-State Symphony Orchestra https://www.k-state.edu/mtd/academics/music/orchestra/  <br>' 
     design:
       columns: '1'
 ---
