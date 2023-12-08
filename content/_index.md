@@ -94,7 +94,7 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: ' I published several pieces of my writing in the Children's Literature Journal as a teenager. Therefore, my dream was always to be a writer. However, I accidentally chose chemistry as my undergraduate major and began my stochastic fluctuating in the world of science since then. Specifically, I love comparative literature, and I am more than happy if you would like to talk with me about literature from all over the world.😉 <br>
+      text: 'I published several pieces of my writing in the Children's Literature Journal as a teenager. Therefore, my dream was always to be a writer. However, I accidentally chose chemistry as my undergraduate major and began my stochastic fluctuating in the world of science since then. Specifically, I love comparative literature, and I am more than happy if you would like to talk with me about literature from all over the world.😉 <br>
               I love visiting museums from all over the world. Have reloacted in Kansas for more than 4 years, I am obsessed with the Nelson-Atkins Museum of Art in Kansas City, MO. <br>
               Shout out to all the wonderful teachers and friends on my journey to explore the world❤️. I am always happy to find how art and science can correlate with each other so closely. I really want to share with you some of their work: <br>
              1. My undergraduate research advisor, Prof. Sufan Wang: https://www.researchgate.net/profile/Sufan-Wang  <br>
