@@ -96,8 +96,8 @@ sections:
       subtitle: ''
       text:
            'I love comparative literature, and I am more than happy if you would like to talk with me about literature from all over the world.😉  <br>
-I love visiting museums from all over the world. Have reloacted in Kansas for more than 4 years, I am obsessed with the Nelson-Atkins Museum of Art in Kansas City, MO. <br>
-Shout out to all the wonderful teachers and friends on my journey to explore the world❤️. I am always happy to find how art and science can correlate with each other so closely. I really want to share with you some of their work: <br>
+I love visiting museums from all over the world. Have relocated in Kansas for more than 4 years, I am obsessed with the Nelson-Atkins Museum of Art in Kansas City, MO. <br>
+I am always happy to find how art and science can correlate with each other so closely. Shout out to all the wonderful teachers and friends on my journey to explore the world❤️. I really want to share with you some of their work: <br>
              1. My undergraduate research advisor, Prof. Sufan Wang: https://www.researchgate.net/profile/Sufan-Wang  <br>
              2. My English Literature undergraduate minor thesis advisor, Prof. Yali Xie: https://flc.ahnu.edu.cn/info/1012/3662.htm  <br>
              3. My PhD research advisor, Prof. Christine Aikens https://www.k-state.edu/chem/about/people/faculty/aikens/lab/  <br>
