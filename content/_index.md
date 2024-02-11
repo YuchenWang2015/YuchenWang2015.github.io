@@ -102,9 +102,7 @@ I am always happy to find how art and science can correlate with each other so c
              2. My English Literature undergraduate minor thesis advisor, Prof. Yali Xie: https://flc.ahnu.edu.cn/info/1012/3662.htm  <br>
              3. My PhD research advisor, Prof. Christine Aikens https://www.k-state.edu/chem/about/people/faculty/aikens/lab/  <br>
              4. About writing and literature, check my friend Natalie Liptak homepage: https://nliptakwriting.wordpress.com/ <br>
-             5. Art and math seminar, organized by Natalia Rojkovskaia, a professor of math at K-State https://www.math.ksu.edu/research/artandmathseminar.html   <br>
-    
-            ' 
+             5. Art and math seminar, organized by Natalia Rojkovskaia, a professor of math at K-State https://www.math.ksu.edu/research/artandmathseminar.html   <br> ' 
     design:
       columns: '1'
 ---
