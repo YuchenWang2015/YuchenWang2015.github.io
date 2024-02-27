@@ -70,7 +70,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a fifth-year PhD candidate in the theoretical and computational chemistry division at K-State. My areas of interests are using theoretical approaches (specifically, TDDFT and Non-adiabatic dynamics) to investigate the plasmonic characters of silver/gold nanoclusters. I also enjoy collaborating with experimental groups to help them elucidate the reaction mechanisms, and study the ground and excited-state properties. And of course, I am hoping my calculations can provide more physical insights, not just how well it fits the experimental data😉. If you are interested in collaborating with me/my group, please contact me (yuchenwang@ksu.edu) or my supervisor: Prof. Christine Aikens. <br>
-In my spare time, I like reading literature from all over the world🌍, yoga (Pilates 🧘‍♀️), learning violin 🎻, collecting stamps, watching Ghibli movies and hiking with friends, and -- playing Mario Kart 😊.   
+I am a fifth-year PhD candidate in the theoretical and computational chemistry division (Prof. Christine Aikens group) at K-State. My areas of interests are using quantum chemistry approaches (specifically, TDDFT and Non-adiabatic dynamics) to investigate the plasmonic characters of silver/gold nanoclusters. I also enjoy collaborating with experimental groups to help them elucidate the reaction mechanisms, and study the ground and excited-state properties.  <br>
+In my spare time, I like reading literature from all over the world🌍, yoga (Pilates 🧘‍♀️), learning violin 🎻, collecting stamps, hiking with friends. My current favorite video game is Civilization VI. 
 
 {style="text-align: justify;"}
