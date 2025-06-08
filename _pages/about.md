@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: |
   Postdoctoral Fellow @ NYU
@@ -31,4 +31,6 @@ latest_posts:
 
 I am currently a Postdoctoral Fellow at [New York University](https://www.nyu.edu/) working with [Professor Norah Hoffmann](https://www.hoffmanngroup.info/). I hold a Bachelor's Degree from Anhui Normal University in Chemistry, and an Chemistry Ph.D. from Kansas State University with [Professor Christine Aikens](https://www.k-state.edu/chem/about/people/faculty/aikens/).
 
-My previous research mainly focused on xxx.
+My research focuses on the computational study of noble metal nanoclusters, employing methods such as electronic structure calculations, time-dependent density functional theory (TDDFT), and molecular dynamics. I am particularly interested in understanding the structural, optical, and catalytic properties of metal nanoclusters, as well as their interactions with external fields. My work aims to bridge theoretical insights with experimental findings to advance the design of functional nanomaterials. For more details, please see [the research page](./research).
+
+
