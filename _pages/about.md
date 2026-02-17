@@ -9,7 +9,7 @@ subtitle: |
 
 profile:
   align: right
-  image: ycw.jpg
+  image: ycw2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="https://www.nyu.edu/">New York University</a></p>
